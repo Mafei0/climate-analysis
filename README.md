@@ -1,8 +1,9 @@
 # Climate analysis tools
 ## Authors
 
-Vanessa Graber
-Matthias Feinaeugle
+*Matthias Feinaeugle
+*Vanessa Graber
+
 
 ##Further information
 
