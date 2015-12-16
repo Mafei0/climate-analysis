@@ -1,4 +1,7 @@
-"""Climate analysis tool"""
+"""Climate analysis tool
+
+Uses own internal library temp_conversion.py
+"""
 
 import sys
 import temp_conversion
